@@ -1,2 +1,2 @@
-# jpmc-task-1
-task 1 forage codes
+# JPMC Task 1
+Starter repo for task 1 of the JPMC software engineering program
